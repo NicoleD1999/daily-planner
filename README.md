@@ -8,4 +8,4 @@ The user is able to then see nine rows with each row displaying an hour of the d
 The user has the option to enter any text they would like into any of the given text areas. If the user would like to save their input they MUST click the save button to the right of whichever text area they just added information to, if the user does not click the save button and refreshes the page, their input will not be displayed. 
 
 ![img](./assets/websiteimage/website.png)
-Click [here] (https://nicoled1999.github.io/daily-planner/) to view my website.
+Visit my webpage here https://nicoled1999.github.io/daily-planner/
